@@ -12,12 +12,11 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 
 ## 🛠️ Tecnologías y herramientas
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,nodejs,discord,bots,androidstudio,java,github,md,nextjs,vscode,vercel" />
+  </a>
+</p>
 
 ## 📈 Estadísticas
 
